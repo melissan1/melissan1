@@ -1,5 +1,5 @@
 Hi 😊👋, I'm Meli
-🦄 A full-time learner, passionate dev girl, and im phicology
+🦄 A full-time learner, passionate dev girl, and im PSYCHOLOGIST
 🔭 I’m currently training as a Cibersecurity with COLNODO.
 
 🌈 I’m currently learning Python, JavaScript, CSS
